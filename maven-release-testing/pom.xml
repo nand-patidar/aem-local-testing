@@ -80,4 +80,8 @@
       </plugins>
     </pluginManagement>
   </build>
+  
+  <scm>
+		<connection>scm:git:ssh://git@github.com:nandkishore-patidar/aem-local-testing.git</connection>
+	</scm>
 </project>
