@@ -81,7 +81,8 @@
   </build>
   
   <scm>
-		<connection>scm:git:ssh://git@github.com:nandkishore-patidar/aem-local-testing.git</connection>
+		
+		  <connection>scm:git:https://github.com/nandkishore-patidar/aem-local-testing.git</connection>
 	  <tag>maven-release-testing-1.0.0</tag>
   </scm>
 </project>
