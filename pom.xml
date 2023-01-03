@@ -5,7 +5,7 @@
 
   <groupId>com.maven.release</groupId>
   <artifactId>maven-release-testing</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>maven-release-testing</name>
   <!-- FIXME change it to the project's website -->
@@ -82,5 +82,6 @@
   
   <scm>		
 	<connection>scm:git:https://github.com/nandkishore-patidar/aem-local-testing.git</connection>	 
+    <tag>maven-release-testing-1.0.0</tag>
   </scm>
 </project>
