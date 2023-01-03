@@ -21,7 +21,7 @@
     <repository>
       <id>aem-local</id>
       <name>AEM local Repository</name>
-      <url>http://localhost:8082/ui/native/libs-release-local/</url>
+      <url>http://localhost:8082/artifactory/nandkishorepatidar/</url>
     </repository>   
   </distributionManagement>
 
